@@ -28,16 +28,13 @@ Does your workflow work? Is there any problem with the connection to Redis?
 3. Improve your Workflow to connect Node.js application to Redis using this documentation:
   - [About service containers](https://docs.github.com/en/actions/guides/about-service-containers)
   - [Creating Redis service containers](https://docs.github.com/en/actions/guides/creating-redis-service-containers)
-4. Practice a regular workflow of the software development life cycle, for example for completing the [Lab 3 instructions](../03.continuous-testing/lab.md). 
+4. Practice a regular workflow of the software development life cycle by finishing and enhancing the work from lab 3. Practicing TDD, enhance the completed in the testing lab by adding a method to update existing users and a method to delete an existing user.
 
 Create a pull request to the `master` branch:
 - create a new branch and publish it to your remote GitHub repository
-- make any change in your source code, commit and push it
+- make any change in your source code, commit, and push it
 - make a **Pull Request** on GitHub
 - wait for GitHub Actions to test it (observe the process on GitHub -> Actions page)
 - review the commit and Merge this Pull Request into the `master` branch
 5. Explore the GitHub Actions log on GitHub (under the "Actions" tab).
-
-## Bonus tasks
-
-1. Integrate Swagger UI using this package - https://www.npmjs.com/package/express-swagger-generator
+6. As time allows, complete the python labs for testing and github actions.
